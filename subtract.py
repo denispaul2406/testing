@@ -1,4 +1,4 @@
-def subtract(a,b):
-  return a-b
+def sub(a,b):
+  return a - b
 
-subtract(a,b)
+sub(3,2)
